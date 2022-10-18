@@ -1,0 +1,42 @@
+.education{
+    background-color: #282828;
+}
+.formal{
+    margin-bottom: 30px;
+}
+h1,  h4{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: white;
+    display: inline-block;
+}
+p{  
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: white;
+}
+
+.awd, .edu{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+a:hover{
+    transform: scale(1.1);
+}
+.cert{
+    width: 80px;
+
+}
+
+a{
+    text-decoration: none;
+    cursor: pointer;
+    display: inline-block;
+    margin-left: 20px;
+}
+.icon{
+    color: #FFCC01;
+    font-size: 60px;
+}

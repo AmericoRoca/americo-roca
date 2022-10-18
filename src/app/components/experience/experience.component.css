@@ -1,0 +1,27 @@
+.experience{
+    background-color: #282828;
+}
+.cert{
+    width: 80px;
+}
+.formal{
+    margin-bottom: 30px;
+}
+h1, p, H4{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: white;
+}
+h4{
+    display: inline-block;
+}
+h3{
+    color: white;
+    display: inline-block;
+}
+.exp{
+    margin-left: 20px;
+    margin-top: 20px;
+    
+}

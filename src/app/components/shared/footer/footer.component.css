@@ -1,0 +1,25 @@
+.footer{
+    background-color: #282828;
+}
+p{
+    color: white;
+    margin-left: 10px;
+}
+.icon1{
+    margin-left: 10px;
+    color: #FFCC01;
+    margin-right: 10px;
+}
+
+.icon {
+    margin-left: 10px;
+    color: #FFCC01;
+    margin-right: 10px;
+    display: inline-block;
+    font-size: 30px;
+}
+
+.icon:hover{
+    color: white;
+    transform: scale(1.1);
+}

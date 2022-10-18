@@ -1,0 +1,15 @@
+.card{
+    background-color: #3d3c3c;
+}
+p, h5, h2{
+    color: white;
+}
+a{
+    background-color: #FFCC01;
+    border-color: #FFCC01;
+    color: #3d3c3c;
+}
+a:hover{
+    background-color: #282828 ;
+    border-color: #282828;
+}

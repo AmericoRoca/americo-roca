@@ -1,0 +1,15 @@
+.code{
+    background-color: #282828;
+    margin-top: 20px;
+}
+h1,p{
+    color: white;
+    margin-left: 10px;
+}
+.img-l{
+    width: 80px;
+    margin-right: 10px;
+}
+.img-l:hover{
+    transform: scale(1.1);
+}
