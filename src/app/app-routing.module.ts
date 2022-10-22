@@ -6,7 +6,6 @@ import { EducationComponent } from './components/education/education.component';
 import { ExperienceComponent } from './components/experience/experience.component';
 import { HomeComponent } from './components/home/home.component';
 import { ProyectsComponent } from './components/proyects/proyects.component';
-import { NotComponent } from './components/not/not.component';
 
 const routes: Routes = [ 
   {
