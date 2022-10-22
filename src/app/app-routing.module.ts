@@ -46,7 +46,8 @@ const routes: Routes = [
   },
   {
     path: '**',
-    component: NotComponent,
+    component: HomeComponent,
+    pathMatch: 'full',
 
   }
     
