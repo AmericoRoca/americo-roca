@@ -10,7 +10,6 @@ import { EducationComponent } from './components/education/education.component';
 import { ExperienceComponent } from './components/experience/experience.component';
 import { HomeComponent } from './components/home/home.component';
 import { ProyectsComponent } from './components/proyects/proyects.component';
-import { NotComponent } from './components/not/not.component';
 import { HeaderComponent } from './components/shared/header/header.component';
 import { FooterComponent } from './components/shared/footer/footer.component';
 import { NavbarComponent } from './components/shared/navbar/navbar.component';
@@ -27,7 +26,6 @@ import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
     EducationComponent,
     ExperienceComponent,
     ProyectsComponent,
-    NotComponent,
     HeaderComponent,
     FooterComponent,
     NavbarComponent
